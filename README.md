@@ -8,4 +8,6 @@ float assf(vec2 sample, vec2 center, vec2 sizeRadius, vec2 cornerRadius, float a
 
 [Read the paper (PDF)](./paper.pdf)
 
+[Copy the implementation](./implementation.vs)
+
 ISC License • Copyright (c) 2026 Icosahedron Instrumentality
