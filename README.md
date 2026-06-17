@@ -6,7 +6,7 @@
 float assf(vec2 sample, vec2 center, vec2 sizeRadius, vec2 cornerRadius, float antialias);
 ```
 
-[Read the paper (PDF)](./paper.pdf)
+[Read the paper (PDF)](./paper.pdf) \| [Alternative GitHub link](https://github.com/icosahedroninstrumentality/assf/blob/main/Anisotropic%20Superelliptic%20Shape%20Function%20(ASSF).pdf)
 
 [Copy the implementation](./implementation.vs)
 
